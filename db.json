@@ -1,0 +1,24 @@
+{
+    "case": [{
+            "id_fiscal": "K000003948",
+            "num": 1,
+            "sujet": "cause fiscale",
+            "reférence": "cause numéro 1194/2022",
+            "prix_nette": 400
+        },
+        {
+            "id_fiscal": "K000003948",
+            "num": 2,
+            "sujet": "demande de reconciliation et chevauchement chez l'administration fiscale",
+            "reférence": "demande déposée le 03/02/2022",
+            "prix_nette": 200
+        }
+    ],
+    "client": [{
+        "id_fiscal": "K000003948",
+        "client": "Société Chaabane et ses coopérateur",
+        "adresse": "Rue 8600 numero 84 Charguia 1 Tunis",
+        "Telephone": "74202229",
+        "Email": "juridique.ssc@chaabanecie.com"
+    }]
+}
